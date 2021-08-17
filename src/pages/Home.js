@@ -13,7 +13,7 @@ function Home() {
     <div className="flex flex-col min-h-screen overflow-hidden">
 
       {/*  Site header */}
-      <Header />
+      <Header><h1>안녕하세요!</h1></Header> 
 
       {/*  Page content */}
       <main className="flex-grow">
